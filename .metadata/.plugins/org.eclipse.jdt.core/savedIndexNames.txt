@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\anafr\Desktop\Historia_de_terror\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3620130983.index
-3460994254.index
